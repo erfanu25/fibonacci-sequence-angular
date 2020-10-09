@@ -36,3 +36,13 @@
      background-color: #1be714;
    }
  }
+
+ .float-lower-left {
+   position:absolute;
+   bottom: 120px;
+   right:25%;
+   left:50%;
+   margin-left:-150px;
+   opacity: 0.8;
+   font-weight:bolder;
+ }
